@@ -1,0 +1,12 @@
+pip install turtle
+pip install threading
+pip install pystyle
+pip install random
+pip install urllib3.exceptions
+pip install http
+pip install Data.UserAgent
+pip install Data.Lists
+pip install ssl 
+pip install os 
+pip install requests 
+pip install time
